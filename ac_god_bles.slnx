@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ac_god_bles/ac_god_bles.vcxproj" Id="c875e435-590a-422d-8158-f2cf40211d03" />
+</Solution>
